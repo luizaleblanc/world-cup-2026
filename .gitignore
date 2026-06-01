@@ -1,0 +1,32 @@
+# Local secrets
+.env
+**/.env
+
+# Python
+venv/
+.venv/
+**/venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Flutter/Dart generated files
+.dart_tool/
+**/.dart_tool/
+.flutter-plugins-dependencies
+**/.flutter-plugins-dependencies
+build/
+**/build/
+.pub-cache/
+.pub/
+coverage/
+**/coverage/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
