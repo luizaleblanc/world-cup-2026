@@ -1,5 +1,4 @@
-<img width="1919" height="1003" alt="Captura de tela 2026-05-27 223752" src="https://github.com/user-attachments/assets/28ce8ce3-ff23-406f-8bb1-290c95fdc8cc" />
-
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/49613416-95b5-4e3b-83be-472964444e14" />
 
 
 # Copa do Mundo 2026 - Plataforma de Acompanhamento
